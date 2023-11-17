@@ -1,0 +1,11 @@
+﻿<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>RevitWPFAddinTemplate</Name>
+        <Assembly>YourPluginFolder/RevitWPFAddinTemplate.dll</Assembly>
+        <AddInId>9A49449A-9EB2-4AA1-8423-128F86AAF5DD</AddInId>
+        <FullClassName>RevitWPFAddinTemplate.Application</FullClassName>
+        <Text>Revit WPF Addin Template</Text>
+        <VendorId>Sergei Nefyodov</VendorId>
+        <VendorDescription></VendorDescription>
+    </AddIn>
+</RevitAddIns>
